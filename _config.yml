@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Future leader, caring tutor and amateur photographer"
   - text: "Hmm, I don't have anything to say xD"
 
-me-img: "/img/jetpacktocat.png"
+#me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -67,7 +67,7 @@ me-img: "/img/jetpacktocat.png"
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+ me-img: "https://graph.facebook.com/1234154428/picture?type=large&width=500&height=500"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -134,13 +134,13 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2016 - Today"
-    description: "Started a new quest. Joined PT Anugerah Pharmindo Lestari as Demand and Supply Planing Excellence Supervisor!"
+    description: "Started a new quest! Joined PT Anugerah Pharmindo Lestari as Demand and Supply Planing Excellence Supervisor."
   - image: "/img/timeline/baracktocat.jpg"
     date: "May 2016"
-    description: "Unlocked B.S. from University of Maryland, College Park. Got B.S. in Supply Chain Management and Information System!"
+    description: "Unlocked B.S. from University of Maryland, College Park! Got B.S. in Supply Chain Management and Information System."
   - image: "/img/timeline/spidertocat.png"
     date: "May 2014"
-    description: "Unlocked A.A. from Montgomery College. Got A.A. in Information System!"
+    description: "Unlocked A.A. from Montgomery College! Got A.A. in Information System"
   - image: "/img/timeline/spidertocat.png"
     date: "June 2012"
     description: "Became full time adult!"
