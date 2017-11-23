@@ -131,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/apl.jpg"
+  - image: "/img/timeline/apl.png"
     date: "September 2016 - Today"
     description: "Started a new quest! Joined PT Anugerah Pharmindo Lestari as Demand and Supply Planing Excellence Supervisor."
   - image: "/img/timeline/umd.png"
