@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://tradaaa.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /tradaaa.github.io
 
 # Google tracking id
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Maarief Sukma Indrawan"
+title: "{ Maarief S. Indrawan }"
+description: "Blog and website of Maarief S. Indrawan, blogging mainly for supply chain management, pphotography, and tech. Sharing is caring"
+keywords: "maarief, sukma, indrawan, photography, photographer, supply chain management, scm, msi, share, pentax, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
