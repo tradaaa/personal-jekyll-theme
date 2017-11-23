@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -56,11 +56,9 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "From unknown to be known!."
-  - text: "Future leader, caring tutor and amateur photographer"
-  - text: "Hmm, I don't have anything to say xD"
-  - text: "Yare yare"
+  - text: "A Future Leader, A Caring Tutor and An Amateur Photographer"
 
-#me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -68,7 +66,7 @@ lines: # You can add HTML Tags in the Text
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-me-img: "https://graph.facebook.com/1234154428/picturetype=large&width=500&height=500"
+#me-img: "https://graph.facebook.com/1234154428/picturetype=large&width=500&height=500"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -133,22 +131,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/apl.jpg"
     date: "September 2016 - Today"
     description: "Started a new quest! Joined PT Anugerah Pharmindo Lestari as Demand and Supply Planing Excellence Supervisor."
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/umd.png"
     date: "May 2016"
     description: "Unlocked B.S. from University of Maryland, College Park! Got B.S. in Supply Chain Management and Information System."
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/mc.jpg"
     date: "May 2014"
     description: "Unlocked A.A. from Montgomery College! Got A.A. in Information System."
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/adult.jpg"
     date: "June 2012"
     description: "Became full time adult!"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/default.jpg"
 
 ###########
 # Contact #
