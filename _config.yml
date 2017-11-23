@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Maarief Sukma Indrawan"
-title: "{ Maarief S. Indrawan }"
+title: "Maarief S. Indrawan"
 description: "Blog and website of Maarief S. Indrawan, blogging mainly for supply chain management, pphotography, and tech. Sharing is caring"
 keywords: "maarief, sukma, indrawan, photography, photographer, supply chain management, scm, msi, share, pentax, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "From unknown to be known!."
+  - text: "Future leader, caring tutor and amateur photographer"
+  - text: "Hmm, I don't have anything to say xD"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -105,24 +106,24 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
 post-preview-words: 96
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#email-share: True
+#fb-share: True
+#twitter-share: True
+#linkedin-share: True
+#reddit-share: True
+#google-plus-share: True
+#tumblr-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+#disqus-shortname: "panossakkos"
 
 syntax-highlight: True
 
@@ -132,11 +133,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "September 2016 - Today"
+    description: "Started a new quest. Joined PT Anugerah Pharmindo Lestari as Demand and Supply Planing Excellence Supervisor!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "May 2016"
+    description: "Unlocked B.S. from University of Maryland, College Park. Got B.S. in Supply Chain Management and Information System!"
+  - image: "/img/timeline/spidertocat.png"
+    date: "May 2014"
+    description: "Unlocked A.A. from Montgomery College. Got A.A. in Information System!"
+  - image: "/img/timeline/spidertocat.png"
+    date: "June 2012"
+    description: "Became full time adult!"
 
 # First image of the Timeline
 
@@ -146,7 +153,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "hello@mindrawan.me"
 
 ################
 # Author Blurb #
@@ -156,7 +163,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Maarief S. Indrawan is an random person. He likes to travel, both real and virtual world. He is what we call a nomad perhaps. Spent almost half of his live abroad (Lebanon, Russia, USA). He lives in South of Jakarta (well, Tangerang Selatan to be percise), but he works in East Jakarta. Also, during the weekend, he volunteers in Depok. In his spare time, Max (or Mak, thats what everybody called him) likes to take photograph (and watch anime)."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -165,15 +172,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/maarief.indrawan"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://twitter.com/unknownarief"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/maariefindrawan"
+  - title: "instagram"
+    url: "https://www.instagram.com/mindrawan_94"
 
 ############
 # 404 page #
@@ -185,9 +190,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
