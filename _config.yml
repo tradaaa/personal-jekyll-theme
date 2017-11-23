@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "From unknown to be known!."
+  - text: "From Unknown to be Known!"
   - text: "A Future Leader, A Caring Tutor and An Amateur Photographer"
 
 me-img: "/img/me.jpg"
